@@ -25,7 +25,7 @@
     "web3": "^1.0.0-beta.36"
   },
   "dependencies": {
-    "prettier": "^1.14.2",
+    "prettier": "^1.19.1",
     "validate.js": "^0.12.0"
   }
 }
